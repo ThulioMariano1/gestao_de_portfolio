@@ -26,7 +26,9 @@ namespace gestao_de_portfolio
                 var connectionString = hostContext.Configuration.GetConnectionString("DataBase");
                 services.AddDbContext<PortfolioDBContext>(options => options.UseSqlServer(connectionString));
                 services.AddScoped<IProcessOrdersService, ProcessOrdersService>();
+                services.AddScoped<IEmailService, EmailService>();
                 services.AddHostedService<ProcessWorker>();
+                services.AddHostedService<EmailWorker>();
             })
             .ConfigureLogging(logging =>
             {

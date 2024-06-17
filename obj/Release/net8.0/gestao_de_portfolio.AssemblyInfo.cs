@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestao_de_portfolio")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086c6328b37252c27b8bce650ad7b8f1eabbba15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61a1138f8410eff09410f730455aac93e91b85cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestao_de_portfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestao_de_portfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thuli\\source\\repos\\gestao_de_portfolio\\gestao_de_portfolio.csproj": {}
+    "C:\\Projetos\\gestao_de_portfolio\\gestao_de_portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thuli\\source\\repos\\gestao_de_portfolio\\gestao_de_portfolio.csproj": {
+    "C:\\Projetos\\gestao_de_portfolio\\gestao_de_portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thuli\\source\\repos\\gestao_de_portfolio\\gestao_de_portfolio.csproj",
+        "projectUniqueName": "C:\\Projetos\\gestao_de_portfolio\\gestao_de_portfolio.csproj",
         "projectName": "gestao_de_portfolio",
-        "projectPath": "C:\\Users\\thuli\\source\\repos\\gestao_de_portfolio\\gestao_de_portfolio.csproj",
+        "projectPath": "C:\\Projetos\\gestao_de_portfolio\\gestao_de_portfolio.csproj",
         "packagesPath": "C:\\Users\\thuli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thuli\\source\\repos\\gestao_de_portfolio\\obj\\",
+        "outputPath": "C:\\Projetos\\gestao_de_portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thuli\\AppData\\Roaming\\NuGet\\NuGet.Config",

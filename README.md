@@ -6,6 +6,7 @@ Este é um projeto em C# para gestão de portfólio de investimentos. A seguir estã
 
 - **IDE**: Visual Studio 2022
 - **Banco de Dados**: SQL Server (é obrigatório ter o SQL Server instalado na máquina)
+- **Email**: Substituir o email `thuliomariano1@gmail.com` localizado arquivo: EmailService.cs 
 
 ### Passo 1: Clonar o Repositório
 Clone o repositório do projeto para sua máquina local:
@@ -17,7 +18,7 @@ git clone <URL-do-repositório>
 Abra o Visual Studio 2022 e carregue a solução do projeto.
 
 ### Passo 3: Restaurar os Pacotes NuGet
-No Visual Studio, abra o Gerenciador de Pacotes NuGet e restaure os pacotes necessários:
+No Visual Studio, execute os seguintes comandos no **Package Manager Console**:
 ```bash
 dotnet restore
 ```
